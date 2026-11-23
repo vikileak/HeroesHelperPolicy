@@ -1,51 +1,101 @@
-Viktor Leongard built the HeroesHelper app as a Free app. This SERVICE is provided by Viktor Leongard at no cost and is intended for use as is.
+# Heroes Helper Privacy Policy
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+_Last updated: 23 November 2026_
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Heroes Helper ("the app") is a free app for iOS and Android made by Viktor
+Leongard ("I", "me"). It shows Heroes of the Storm build recommendations. This
+policy explains what information the app handles, who receives it and why.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Shift Calendar unless otherwise defined in this Privacy Policy.
+## The short version
 
-Information Collection and Use
+- There are no accounts. You never sign in and I never know who you are.
+- The hero builds are bundled with the app. The app does not contact any server
+  of mine.
+- The app shows ads from **Unity LevelPlay**. To show and measure them, Unity
+  may process device information, your IP address and how you interact with
+  ads. In the EEA, the UK and Switzerland you are asked first, and you can
+  change your answer at any time.
+- If you send feedback from the app, your message and basic device details go to
+  me as an issue in a private GitHub repository.
+- Your favourites and settings stay on your device.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to launch count, shift count, use times. The information that I request will be retained on your device and is not collected by me in any way.
+## Information I do not collect
 
-The app does use third party services that may collect information used to identify you.
+I do not run a server for this app and I do not collect, store or sell personal
+information. The app has no sign-in, no analytics of its own and no crash
+reporting of its own. Hero builds and talent data ship inside the app and are
+updated only with new app versions.
 
-Link to privacy policy of third party service providers used by the app
+## Information stored on your device
 
-AdMob
+The app stores the following on your device only. It is never sent to me:
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+- your favourite heroes;
+- whether you have seen the welcome screens;
+- counters used to decide when to ask for an app rating;
+- a copy of the last hero data you saw, used to show what changed after an
+  update;
+- your answer about personalised ads, when an ad-free day ends, and how many
+  times you opened the app, used to space out ads.
 
-Cookies
+Uninstalling the app deletes all of it.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## Advertising: Unity LevelPlay
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+The free app shows ads from Unity LevelPlay (ironSource Mobile Ltd., a Unity
+company), now and then after you finish reading a build. You can also choose to
+watch one short video for 24 hours without ads. To show and measure ads, Unity
+may process device information, your IP address and how you interact with ads.
+In the European Economic Area, the United Kingdom and Switzerland, personalised
+ads are shown only if you agree; you can change your choice any time under
+**Privacy options** at the bottom of the hero list. If you decline, you see the
+same number of ads, just non-personalised ones.
 
-Service Providers
+On iOS the app never asks for tracking permission, so it never uses the
+advertising identifier (IDFA). On Android, Unity may use the Android
+advertising ID, which you can reset or delete under Settings → Privacy → Ads
+(or Settings → Google → Ads).
 
-I may employ third-party companies and individuals due to the following reasons:
+Unity's privacy policy:
+[https://unity.com/legal/game-player-and-app-user-privacy-policy](https://unity.com/legal/game-player-and-app-user-privacy-policy).
 
-To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## Feedback form
 
-Security
+The app has an optional feedback form. When you send it, the app creates an
+issue in the app's GitHub repository. The issue contains:
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+- the title and text you typed;
+- the app version, your operating system version and your device model.
 
-Links to Other Sites
+The repository is private: only I can read the issue. It is stored by GitHub,
+Inc. under the
+[GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
+The form does not ask for your name or email address, so I cannot reply to you.
+Please do not include personal details in your message. If the repository is
+ever made public, I will delete or edit feedback issues that contain personal
+details first.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Nothing is sent unless you tap the send button.
 
-Children’s Privacy
+## Children
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+The app is not directed at children under 13, and I do not knowingly collect
+personal information from them.
 
-Changes to This Privacy Policy
+## Deleting your data
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+- **Data on your device:** uninstall the app.
+- **A feedback issue:** email me with a link to the issue or its title, and I
+  will delete it.
+- **Data processed by Unity for ads:** see Unity's privacy policy above. On
+  Android you can also reset or delete your advertising ID in your device
+  settings.
 
-Contact Me
+## Changes to this policy
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at vleongard@icloud.com
+When the app's handling of data changes, I will update this page and the date
+at the top.
+
+## Contact
+
+Viktor Leongard — [vleongard@icloud.com](mailto:vleongard@icloud.com)
